@@ -1,0 +1,20 @@
+{
+  "guilda": "Espiritus perdidos",
+  "novasContas": 2,
+  "novosTopos": 0,
+  "checados": [
+    {
+      "apelido": "DanielCor98#3522",
+      "mavChar": "Jamael",
+      "mavGuild": "Espiritus perdidos",
+      "flagged": false
+    },
+    {
+      "apelido": "lmariozprol#5680",
+      "mavChar": "Savage",
+      "mavGuild": "Espiritus perdidos",
+      "flagged": false
+    }
+  ],
+  "topos": []
+}
